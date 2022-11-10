@@ -18,4 +18,4 @@ userComments = user.get_comments(limit=setLimit)
 # Since reddit stores even deleted comments.
 
 for comment in userComments:
-    comment.edit('The Sky is Blue.')
+    comment.edit('dogs are cool.')
